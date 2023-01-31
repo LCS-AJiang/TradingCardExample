@@ -28,8 +28,16 @@ let mrSunglasses = Card(emoji: "😎",
 
 let pleasePerson = Card(emoji: "🥹",
              description: "1",
-             age: "27",
+             age: "17",
              height: "169cm",
              sign: "aquarius",
              color: Color("Lime"),
              name: "pleasePerson")
+
+let sleepy = Card(emoji: "😴",
+             description: "2",
+             age: "18",
+             height: "168cm",
+             sign: "aquarius",
+             color: Color("Sky"),
+             name: "sleepy")
